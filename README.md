@@ -4,4 +4,4 @@ This is a test code for reproduction of picture using genetic algorithm.
 
 I apologize for my dirty code.
 
-![モナリザ](https://github.com/TakeruIto/GAforPicture/tree/master/images/origin1.jpg)
+![origin1](https://user-images.githubusercontent.com/39827302/66717122-9351a680-ee10-11e9-9444-465de2c24af3.jpg)
